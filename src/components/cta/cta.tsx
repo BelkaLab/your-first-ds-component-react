@@ -14,7 +14,7 @@ export const Cta = forwardRef<HTMLButtonElement, CtaProps>(
         className={classNames(ctaStyles({}), className)}
         {...rest}
       >
-        <Text size="sm" weight="medium" className="pt-4">
+        <Text size="sm" weight="medium">
           {children}
         </Text>
         <ArrowRight className="fill-black h-4 w-4" />
