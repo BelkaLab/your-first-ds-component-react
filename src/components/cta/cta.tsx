@@ -1,7 +1,7 @@
 import classNames from "classnames";
 import { forwardRef } from "react";
 
-import { ArrowRight } from "../../../public/icons/arrowRight";
+import { ArrowRight } from "../../../public/icons";
 import { Text } from "../text";
 import { ctaStyles } from "./styles";
 import { CtaProps } from "./types";
