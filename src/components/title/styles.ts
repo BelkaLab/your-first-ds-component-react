@@ -9,6 +9,9 @@ const titleStyles = cva("font-medium", {
       h4: "text-[22px] leading-[33px]",
     },
   },
+  defaultVariants: {
+    as: "h1",
+  },
 });
 
 export { titleStyles };
