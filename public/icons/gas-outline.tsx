@@ -2,7 +2,7 @@ import * as React from "react";
 import { SVGProps } from "react";
 
 export const GasOutline = (props: SVGProps<SVGSVGElement>) => (
-  <svg viewBox="0 0 16 16" fill="none" {...props}>
+  <svg viewBox="0 0 16 16" {...props}>
     <path d="M7.54941 8.78306C7.64989 8.63221 7.81889 8.54175 8.00008 8.54175C8.18127 8.54175 8.35027 8.63221 8.45075 8.78306C8.53931 8.91577 9.31552 10.1064 9.31552 11.018C9.31552 11.7433 8.72564 12.3334 8.00008 12.3334C7.27452 12.3334 6.68464 11.7433 6.68464 11.018C6.68464 10.1064 7.46085 8.91577 7.54941 8.78306Z" />
     <path
       fill-rule="evenodd"
