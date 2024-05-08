@@ -1,3 +1,3 @@
 export { Alert } from "./alert";
-export { ArrowRight } from "./arrowRight";
-export { GasOutline } from "./gasOutline";
+export { ArrowRight } from "./arrow-right";
+export { GasOutline } from "./gas-outline";
