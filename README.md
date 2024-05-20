@@ -1,13 +1,14 @@
 # Your first design system component
-#### Belka Live Talks · 10 May
+#### Belka Live Talks
 <p>
   <img src="https://github.com/BelkaLab/your-first-ds-component-react/assets/104076485/fa93b71c-f234-4213-9526-d269bdf21bd6" alt="Belka logo"/>
 </p>
 
-👋 Hey! If you are here it means you would like to learn how to build a component from scratch. You are at the right place!
+👋 Hey! If you are here it means you would like to learn how to build a component from scratch. You are at the right place!\
+\
 First of all, why should you? Over time successful products naturally evolve. New features are added, until things get complicated and creating a proper design system becomes indispensable. Starting from scratch can be intimidating but in this repository you will be able to find ready-to-use code to make it easy.\
-We also recorded a webinar. Federica Vacca, Belka’s front-end engineer, will show you step-by step how to do it.\
-Here you can watch it: https://www.youtube.com/watch?v=4fBjtWsEx6w&t=357s
+\
+We also recorded a webinar. Federica Vacca, Belka’s front-end engineer, will show you step-by step how to do it. 👉 Here you can watch it: https://www.youtube.com/watch?v=4fBjtWsEx6w&t=357s
 
 ### Project set up
 Clone it, run `yarn` and then `yarn storybook` to view the components.
